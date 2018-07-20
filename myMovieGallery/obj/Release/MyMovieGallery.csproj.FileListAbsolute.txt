@@ -1,0 +1,14 @@
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\myMovieGallery\myMovieGallery\bin\Release\MovieDB.mdf
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\myMovieGallery\myMovieGallery\bin\Release\MovieDB_log.ldf
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\myMovieGallery\myMovieGallery\bin\Release\myMovieGallery.exe.config
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\myMovieGallery\myMovieGallery\bin\Release\myMovieGallery.exe
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\myMovieGallery\myMovieGallery\bin\Release\myMovieGallery.pdb
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\myMovieGallery\myMovieGallery\obj\Release\MyMovieGallery.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\myMovieGallery\myMovieGallery\obj\Release\myMovieGallery.AddMovie.resources
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\myMovieGallery\myMovieGallery\obj\Release\myMovieGallery.Main.resources
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\myMovieGallery\myMovieGallery\obj\Release\myMovieGallery.ModifyDelete.resources
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\myMovieGallery\myMovieGallery\obj\Release\myMovieGallery.Properties.Resources.resources
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\myMovieGallery\myMovieGallery\obj\Release\myMovieGallery.ViewMovies.resources
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\myMovieGallery\myMovieGallery\obj\Release\MyMovieGallery.csproj.GenerateResource.Cache
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\myMovieGallery\myMovieGallery\obj\Release\myMovieGallery.exe
+C:\Users\Josh\Documents\Visual Studio 2017\Projects\myMovieGallery\myMovieGallery\obj\Release\myMovieGallery.pdb
